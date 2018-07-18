@@ -18,7 +18,7 @@
 
 - Anithing But Ordinary
 
-so on...
+And so on...
 
 ## Under My Skin
 
@@ -34,7 +34,7 @@ so on...
 
 - Don't Tell Me
 
-so on...
+And so on...
 
 # My Select
 
